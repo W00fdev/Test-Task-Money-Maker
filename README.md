@@ -1,5 +1,5 @@
 # Test Task Money Maker
- Тестовое задание для GDR стажировки на Unity Developer'a
+ Тестовое задание на Unity Developer'a
 
 Пояснительная записка:
 
